@@ -1,5 +1,5 @@
 ## Terraform remote back end with S3 and Dynamodb
-![](\source\terraform-remote-state.jpeg)
+![](https://github.com/khanmaster/terraform-back-end-repo/blob/main/source/terraform-remote-state.jpeg)
 
 - Provider block
 ```bash
