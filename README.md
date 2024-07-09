@@ -85,9 +85,5 @@ resource "aws_dynamodb_table" "statelock" {
   }
 
 }
-
-
-
-
-
 ```
+- `terraform force-unlock [options] LOCK_ID`
