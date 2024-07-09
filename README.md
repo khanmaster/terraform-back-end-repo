@@ -47,11 +47,10 @@ resource "aws_instance" "app_instance" {
 
 ```
 - Remote state
-- create s3 bucket - enable versioning - server side encryption AES256
+- create s3 bucket - enable versioning - server side encryption 
 ```bash
 
 # create a service on the cloud - launch an ec2 instance on aws
-# HCL syntax key = value
 
 # which part of AWS - which region
 # provider "aws" {
